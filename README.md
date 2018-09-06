@@ -7,9 +7,9 @@ enabling parallax elements.
 
 ```html
 <parallax-container>
-  <parallax rate="0.3">
-    <img src="header.png"></img>
-  </parallax>
+  <parallax-something rate="0.3">
+    <img src="header.png">
+  </parallax-something>
 
   <p>Site content continues</p>
 </parallax-container>
@@ -36,7 +36,7 @@ which would make it possible to declaratively specify your parallax effect but
 there are many technical challenges that have made this a problem. However, it
 is possible to implement parallax in the browser's asynchronous scrolling today
 by combining 3d perspective and sticky positioning. This is very unergonomic,
-which is exactly the sort of case that permafills can solve!
+which is exactly the sort of case that layered APIs can solve!
 
 ## Implementation
 
