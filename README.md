@@ -15,6 +15,9 @@ enabling parallax elements.
 </parallax-container>
 ```
 
+Checkout a [demo](https://flackr.github.io/parallax/demo.html) using the
+polyfill implementation.
+
 ## Motivation
 
 Having all of the contents of your page scroll at the same rate makes it appear
