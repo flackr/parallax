@@ -3,6 +3,10 @@
 This document is an explainer for a potential future web platform feature
 enabling parallax elements.
 
+## Demo
+
+Navigate to [the demo](https://flackr.github.io/demo.html).
+
 ## Sample code
 
 ```html
